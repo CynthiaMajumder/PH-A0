@@ -1,0 +1,71 @@
+.heading{
+    height: 674px;
+    width: 1600px;
+    background-color: tomato;
+    background-image: url("../img/hero-bg.png");
+  
+}
+.roboto> {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.access {
+ background: white;
+  border: solid green;
+  padding: 8px  16px;
+  border-radius: 30px;
+  display: inline-flex;
+  align-items: center;
+  font-size: 14px;
+  margin-bottom: 50px;
+ 
+}
+
+h1 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+
+}
+
+.green {
+  color: #4ade80; 
+}
+
+.white{
+    color: white;
+}
+
+p {
+  max-width: 700px;
+  margin: 2px; 
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+
+.button {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.click1 {
+  background-color: #30B86B;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 4px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.click2 {
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  padding: 12px 24px;
+  border-radius: 4px;
+  cursor: pointer;
+}
