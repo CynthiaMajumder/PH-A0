@@ -161,7 +161,7 @@ a   { text-decoration: none; }
 /* ─── Hero ──────────────────────────────────────────────────────────────────── */
 .hero {
   background-color: var(--navy);
-  background-image: url('https://cynthiamajumder.github.io/PH-A0/img/hero-bg.png');
+  background-image: url('img/hero-bg.png');
   background-size: cover;
   background-position: center;
   padding: 100px 24px 120px;
